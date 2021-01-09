@@ -1,2 +1,2 @@
 # PeepoGenerator
-create your personal Peepo for whatever reason you need one
+create your personal Pepe the frog for whatever reason you need one
