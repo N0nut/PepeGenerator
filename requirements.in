@@ -1,5 +1,3 @@
 #requirements.in
-tkinter
 pillow
 imageio
-sys
